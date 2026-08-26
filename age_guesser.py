@@ -11,7 +11,7 @@ def main():
             print(f"Great! Your name is {name} and your age is {guess}.")
             break
         else:
-            print(f"\nRats. I will try to guess again.\n")
+            print(f"\nRats. I will try to guess again!\n")
             guess = random.randint(15, 41)
     else:
         print("Invalid input. Please enter your name.")
