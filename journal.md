@@ -1,0 +1,3 @@
+Date 8.28.2026 - Subject: Creation of my journal - Intro
+
+Yesterday (thursday - 27 of August) we created class groups for our CS-2450 (Software Engineering) class. We had a good time trying to make an square with pieces of paper of different forms. We decided to call our group "Hard Coded". The professor explained how to create a remote-local repo in our machine and how to use them. Basically we will be working as a team following Software Development Life Cycle (SDLC) steps.
