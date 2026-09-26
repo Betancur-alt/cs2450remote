@@ -9,3 +9,7 @@ For last class we cloned the repository that the professor created for our group
 Date 9.18.2026
 
 Last class we played a game about asynchronous and syncrhonous. In this game one person needed to write all the letters of the alphabet while the rest of the class needed to do the same but taking turns. Synchronous software executes tasks sequentially and blocks further progress until the current operation finishes, whereas asynchronous software allows multiple tasks to run concurrently without waiting for a direct reply. Both have their advantages and disadvantages depending on what you're working on.
+
+Date 9.26.2026
+
+We have been focusing more on our group projects. We were introduced the assignment of presentation we have to do for our FishBets app and we have been working in it for the last couple classes. I decided to do the overview of our project which is like the introduction of it. Next week we are going to be presenting it. I have a good feeling about it, the whole team works well.
