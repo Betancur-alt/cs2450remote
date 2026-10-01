@@ -18,3 +18,7 @@ We have been focusing more on our group projects. We were introduced the assignm
 Date 9.30.2026
 
 We did our group presentations in last class. One of them was about a horse game in which you feed them, level them up and compite. Another was similar to reddit but instead of liking posts you hate them. The post with most hate votes will be the most popular (very original idea). The other one was about a feed like X (twitter) for example. In where you can post according to the different categories. For last we presented our FishBets app.
+
+Date 10.01.2026
+
+We were introduced to the Project Management - Kanban and we assign ourselves different user stories to work on. Zach will be the Scrum Master this week and I will be working on Creating an Account feature.
