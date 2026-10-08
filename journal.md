@@ -22,3 +22,7 @@ We did our group presentations in last class. One of them was about a horse game
 Date 10.01.2026
 
 We were introduced to the Project Management - Kanban and we assign ourselves different user stories to work on. Zach will be the Scrum Master this week and I will be working on Creating an Account feature.
+
+Date 10.08.2026
+
+Last class on Tuesday we kept working on our user stories, Ben and Zach from my group finished theirs. I checked, reviewed and merged them to our main branch. So far we have the homepage working and the blackjack game. Today we talked about how AI works. We also did the "Agentic Programming" assignment.
