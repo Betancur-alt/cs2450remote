@@ -31,3 +31,7 @@ Date 10.08.2026 - Agent programming assignment
 
 For this activity, I used OpenAI Codex in VS Code. I asked Codex to inspect the existing YouFace code and figure out why the application allowed users to create an account with an empty username or password. Before making any changes, I asked it to explain its plan so I could understand what it wanted to modify.
 After reviewing the plan, I let Codex implement the changes. I looked through the code it changed and then ran the application myself to test it. I tested empty usernames and passwords as well as valid information to make sure the fix worked correctly. I learned that using an AI agent inside VS Code can be very helpful because it can inspect an existing project and understand how different parts of the code work together.
+
+Date 10.21.2026 
+
+On Tuesday we talked more about why ethics are important in the software engineering industry. We played some games of choices of a website and we had fun. Then we had time to keep working on our websites. My group is doing very good. For this week I will be working on implementing the Poker game and also implementing a poker hand history so players can see their past poker games.
