@@ -35,3 +35,7 @@ After reviewing the plan, I let Codex implement the changes. I looked through th
 Date 10.21.2026 
 
 On Tuesday we talked more about why ethics are important in the software engineering industry. We played some games of choices of a website and we had fun. Then we had time to keep working on our websites. My group is doing very good. For this week I will be working on implementing the Poker game and also implementing a poker hand history so players can see their past poker games.
+
+Date 11.05.2026
+
+Last class (tuesday) we talked about refracting and how to do it. We were also assigned the assignment "Refractoring" which I finish the first day and I took the handler of login to refractor it. Today on Thursday we are talking about "current events". The rest of the class was lab time to work on our projects.
