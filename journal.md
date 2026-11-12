@@ -39,3 +39,8 @@ On Tuesday we talked more about why ethics are important in the software enginee
 Date 11.05.2026
 
 Last class (tuesday) we talked about refracting and how to do it. We were also assigned the assignment "Refractoring" which I finish the first day and I took the handler of login to refractor it. Today on Thursday we are talking about "current events". The rest of the class was lab time to work on our projects.
+
+Date 11.12.2026
+
+The professor talked about Security in software. He gave multiple examples that we should be aware of. He also told us a story of him working for a healthcare company that got hacked and how they solve the issue. We have a final presentation and a DEMO of our app to work on. We had some lab time to keep working on our user stories and polishing our app. 
+Last class on Tuesday we talked about how software companies work and how the fix/test their software.
